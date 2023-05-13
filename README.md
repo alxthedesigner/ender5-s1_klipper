@@ -36,8 +36,8 @@ The klipper.bin file and the STM32F4_UPDATE folder containing the printer.cfg ar
 19. Run a Firmware Restart and visit the Mainsail Dashboard to see your printer
 
 ## Sources
-Video on Klipper flashing with Kiauh and Mainsail: https://www.youtube.com/watch?v=-SYqTW7wJTo
-Gist with Ender 5-S1 settings: https://gist.github.com/chouch0u/dd4f1f739635d9eca3b19ec7f60686a7
-Reddit post from @killinmesmalls with settings and specialized printer.cfg file https://www.reddit.com/r/ender5/comments/118v3eu/klipper_make_config_settings_for_ender_5_s1/
+- Video on Klipper flashing with Kiauh and Mainsail: https://www.youtube.com/watch?v=-SYqTW7wJTo
+- Gist with Ender 5-S1 settings: https://gist.github.com/chouch0u/dd4f1f739635d9eca3b19ec7f60686a7
+- Reddit post from @killinmesmalls with settings and specialized printer.cfg file https://www.reddit.com/r/ender5/comments/118v3eu/klipper_make_config_settings_for_ender_5_s1/
 
 Thank you for everyone who contributed to these sources - quite literally couldn't have put it together without you.
