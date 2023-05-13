@@ -1,5 +1,5 @@
 
-# Raspberry Pi + Klipper Setup for Ender 5-S1
+# Raspberry Pi + Klipper Setup for Ender 5-S1 (No Sonic Pad)
 ## Install Klipper & Mainsail interface with raspberry pi imager
 1. Select raspberry pi Lite Os and set up password protection on the Raspberry Pi by going to Settings. Change or keep the hostname and username. 
 2. Write to SD card. When finished, insert SD into raspberry pi
@@ -34,3 +34,10 @@ The klipper.bin file and the STM32F4_UPDATE folder containing the printer.cfg ar
 17. Insert the SD card into 3D printer, power on printer, and flashing will begin automatically. Screen will go black and stay black with Klipper software. After 2 minutes power off 3D printer and back on again
 18. Download a printer.cfg file for your specific 3D printer and upload it to Mainsail
 19. Run a Firmware Restart and visit the Mainsail Dashboard to see your printer
+
+## Sources
+Video on Klipper flashing with Kiauh and Mainsail: https://www.youtube.com/watch?v=-SYqTW7wJTo
+Gist with Ender 5-S1 settings: https://gist.github.com/chouch0u/dd4f1f739635d9eca3b19ec7f60686a7
+Reddit post from @killinmesmalls with settings and specialized printer.cfg file https://www.reddit.com/r/ender5/comments/118v3eu/klipper_make_config_settings_for_ender_5_s1/
+
+Thank you for everyone who contributed to these sources - quite literally couldn't have put it together without you.
