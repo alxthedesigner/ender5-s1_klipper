@@ -12,7 +12,7 @@
 After installing Klipper, Moonscraper, and Mainsail, the 3D printer needs to run the Klipper firmware. The Ender 5-S1’s original firmware is Marlin, so we need to build and flash the Klipper firmware onto the machine to replace it.
 
 ### Build Firmware
-7. Download the printer.cfg file from trhis repo. For other printers, look up your 3D printer’s config file here 
+7. Download the printer.cfg file from this repo. For other printers, look up your 3D printer’s config file here: https://github.com/Klipper3d/klipper/tree/master/config
 8. The commented out section at the top of the config file should show the mainboard details. The Ender 5-S1 runs Creality serial 64-bit motherboard (ARM STM32F401 CPU) and PA10/PA9
 9. Run Kiauh. Go to: **Advanced > Build only (under Firmware)**
 10. Input the mainboard details from the config file
